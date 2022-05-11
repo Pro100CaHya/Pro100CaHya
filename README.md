@@ -1,6 +1,6 @@
 <img src="header.png" alt="альтернативный текст">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=288AB6&lines=Delevoper+from+Moscow%2C+Russia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=288AB6&lines=Junior+Developer+and+IT+student)](https://git.io/typing-svg)
 
 I have been studying programming since 2016, started in high school with Pascal. Nowadays i'm working as `Junior JavaScript developer` in [Carely.group](https://carely.group): develop and support parsing scripts. I also enjoy UI design: like to make templates for my pet projects in Figma. Also studying `React` and `NodeJS`.
 
