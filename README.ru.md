@@ -7,7 +7,7 @@
 [![ru](https://img.shields.io/badge/lang-RUS-green)](https://github.com/Pro100CaHya/Pro100CaHya/edit/main/README.ru.md)
 [![en](https://img.shields.io/badge/lang-ENG-yellow)](https://github.com/Pro100CaHya/Pro100CaHya/edit/main/README.md)
 
-Начал увлекаться программированием в 2016, в старшей школе познакомился с языком Pascal. Сейчас работаю на позиции `Младший JavaScript разработчик` в [Carely.group](https://carely.group): разрабатывая и поддерживаю скрипты парсинга. Также люблю UI: люблю делать макеты для своих проектов в Figma. Сейчас учу `React` and `NodeJS`.
+Начал увлекаться программированием в 2016 году: в старшей школе познакомился с языком Pascal. Сейчас работаю на позиции `Младший JavaScript разработчик` в [Carely.group](https://carely.group): разрабатывая и поддерживаю скрипты парсинга. Также люблю UI: люблю делать макеты для своих проектов в Figma. Сейчас учу `React` and `NodeJS`.
 
 ### Мои основные навыки:
 
