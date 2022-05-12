@@ -4,8 +4,8 @@
 
 ---------------
 
-[![ru](https://img.shields.io/badge/lang-RUS-green)](https://github.com/Pro100CaHya/Pro100CaHya/edit/main/README.ru.md)
-[![en](https://img.shields.io/badge/lang-ENG-yellow)](https://github.com/Pro100CaHya/Pro100CaHya/edit/main/README.md)
+[![ru](https://img.shields.io/badge/lang-RUS-green)](https://github.com/Pro100CaHya/Pro100CaHya/blob/main/README.ru.md)
+[![en](https://img.shields.io/badge/lang-ENG-yellow)](https://github.com/Pro100CaHya/Pro100CaHya)
 
 Начал увлекаться программированием в 2016 году: в старшей школе познакомился с языком Pascal. Сейчас работаю на позиции `Младшего JavaScript разработчика` в [Carely.group](https://carely.group): разрабатываю и поддерживаю скрипты парсинга. Также увлекаюсь UI: люблю делать макеты для своих проектов в Figma. Сейчас учу `React` and `NodeJS`.
 
