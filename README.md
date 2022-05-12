@@ -2,9 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=288AB6&lines=Junior+Developer+and+IT+student)](https://git.io/typing-svg)
 
+---------------
+
+[![ru](https://img.shields.io/badge/lang-RUS-green)](https://github.com/Pro100CaHya/Pro100CaHya/edit/main/README.ru.md)
+[![en](https://img.shields.io/badge/lang-ENG-yellow)](https://github.com/Pro100CaHya/Pro100CaHya/edit/main/README.md)
+
 I have been studying programming since 2016, started in high school with Pascal. Nowadays i'm working as `Junior JavaScript developer` in [Carely.group](https://carely.group): develop and support parsing scripts. I also enjoy UI design: like to make templates for my pet projects in Figma. Also studying `React` and `NodeJS`.
 
-### My skills:
+### My core skills:
 
 - Markup:
 
@@ -34,9 +39,19 @@ I have been studying programming since 2016, started in high school with Pascal.
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
+### Also know¹:
+
+- Languages:
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
 - Operating System:
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+
+- Testing:
+
+![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
 
@@ -45,3 +60,7 @@ I have been studying programming since 2016, started in high school with Pascal.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100CaHya&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Pro100CaHya&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+---------------------
+
+¹ - These skills were learned at an introductory level, as part of a university program or just for fun &#128578; 
