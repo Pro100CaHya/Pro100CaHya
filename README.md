@@ -5,7 +5,7 @@
 ---------------
 
 [![ru](https://img.shields.io/badge/lang-RUS-green)](https://github.com/Pro100CaHya/Pro100CaHya/blob/main/README.ru.md)
-[![en](https://img.shields.io/badge/lang-ENG-yellow)](https://github.com/Pro100CaHya/Pro100CaHya/blob/main/README.md)
+[![en](https://img.shields.io/badge/lang-ENG-yellow)](https://github.com/Pro100CaHya)
 
 I have been studying programming since 2016, started in high school with Pascal. Nowadays i'm working as `Junior JavaScript developer` in [Carely.group](https://carely.group): develop and support parsing scripts. I also enjoy UI design: like to make templates for my pet projects in Figma. Also studying `React` and `NodeJS`.
 
