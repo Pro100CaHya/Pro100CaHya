@@ -59,7 +59,7 @@ I have been studying programming since 2016, started in high school with Pascal.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pro100CaHya&layout=compact)](https://github.com/anuraghazra/github-readme-stats&layout=compact)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Pro100CaHya&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alexander_Tishininov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
 ---------------------
 
