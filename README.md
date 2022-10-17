@@ -61,6 +61,8 @@ I have been studying programming since 2016, started in high school with Pascal.
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Alexander_Tishininov&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
+![CodeWars's stats](https://www.codewars.com/users/Pro100Alex/badges/large)
+
 ---------------------
 
 ¹ - These skills were learned at an introductory level, as part of a university program or just for fun &#128578; 
