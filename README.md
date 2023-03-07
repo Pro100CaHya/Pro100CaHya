@@ -61,7 +61,7 @@ I have been studying programming since 2016, started in high school with Pascal.
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Pro100CaHya&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
-![CodeWars's stats](https://www.codewars.com/users/Pro100Alex/badges/large)
+![CodeWars's stats](https://www.codewars.com/users/Pro100CaHya/badges/large)
 
 ---------------------
 
