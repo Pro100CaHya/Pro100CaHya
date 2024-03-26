@@ -1,6 +1,6 @@
 <img src="header.ru.png" alt="альтернативный текст">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=288AB6&lines=Младший+разработчик+и+IT+студент)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=288AB6&lines=Backend+разработчик)](https://git.io/typing-svg)
 
 ---------------
 
